@@ -1,0 +1,1 @@
+g++ -Wall -fopenmp -std=gnu++0x  -o1 main.cpp -o cpp
